@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/room-thumbnail-D3nB17wl.webp`;export{e as default};

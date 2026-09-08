@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/cream-sunny-study-CTI9i-Hb.webp`;export{e as default};

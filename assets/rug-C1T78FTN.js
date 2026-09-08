@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/rug-Bg0hZC0t.webp`;export{e as default};

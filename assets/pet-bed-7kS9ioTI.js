@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/pet-bed-7YoH_u2W.webp`;export{e as default};

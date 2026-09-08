@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/desk-lamp-Cj4slXXo.webp`;export{e as default};

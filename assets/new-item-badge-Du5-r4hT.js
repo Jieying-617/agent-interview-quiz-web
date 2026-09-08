@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/new-item-badge-ClVTrMpA.webp`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/rain-window-static-fallback-Cp63JmBv.webp`;export{e as default};

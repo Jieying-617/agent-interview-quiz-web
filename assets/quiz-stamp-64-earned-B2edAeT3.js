@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/quiz-stamp-64-earned-Bv3WRXGv.webp`;export{e as default};

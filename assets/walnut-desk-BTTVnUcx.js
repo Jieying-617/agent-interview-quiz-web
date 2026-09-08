@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/walnut-desk-DPWTDkNV.webp`;export{e as default};

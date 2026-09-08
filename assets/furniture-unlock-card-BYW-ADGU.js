@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/furniture-unlock-card-DYPCMbE1.webp`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/renovation-ticket-BlrT1hpm.webp`;export{e as default};

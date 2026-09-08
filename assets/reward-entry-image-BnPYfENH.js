@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/reward-entry-image-C1eZYWZp.webp`;export{e as default};

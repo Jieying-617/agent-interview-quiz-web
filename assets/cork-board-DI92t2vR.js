@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/cork-board-DPrnc0Vw.webp`;export{e as default};

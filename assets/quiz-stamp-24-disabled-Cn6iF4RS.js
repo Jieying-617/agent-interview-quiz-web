@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/quiz-stamp-24-disabled-BgotJHh7.webp`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/dog-static-ihEJWyE3.webp`;export{e as default};

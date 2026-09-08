@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/quiz-stamp-32-disabled-tqlsup0z.webp`;export{e as default};

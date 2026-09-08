@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/rain-window-distance-CgQ7xgrP.webp`;export{e as default};

@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/sage-plant-room-BoJsENUL.webp`;export{e as default};

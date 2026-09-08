@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/book-stack-CPTvaPQ3.webp`;export{e as default};

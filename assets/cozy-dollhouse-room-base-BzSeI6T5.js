@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/cream-sunny-study-Ms25RPas.webp`;export{e as default};

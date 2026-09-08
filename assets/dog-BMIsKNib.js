@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/dog-BYLB626f.webp`;export{e as default};

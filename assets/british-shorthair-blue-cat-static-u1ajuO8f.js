@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/british-shorthair-blue-cat-static-HAdDULtj.webp`;export{e as default};

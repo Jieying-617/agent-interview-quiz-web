@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/reward-particle-06-OuiMHUsZ.webp`;export{e as default};

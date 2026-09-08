@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/inspiration-sticker-Cvp3dshD.webp`;export{e as default};

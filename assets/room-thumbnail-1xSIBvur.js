@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/room-thumbnail-CFNEINAV.webp`;export{e as default};

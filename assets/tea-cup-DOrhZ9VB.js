@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/tea-cup-CCFVlLEo.webp`;export{e as default};

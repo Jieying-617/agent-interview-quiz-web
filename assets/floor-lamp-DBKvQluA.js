@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/floor-lamp-BAdIhT40.webp`;export{e as default};

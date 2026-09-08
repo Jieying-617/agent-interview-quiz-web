@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/soft-chair-eHbNrQ5s.webp`;export{e as default};

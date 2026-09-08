@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/wall-shelf-CnSu-C7Q.webp`;export{e as default};

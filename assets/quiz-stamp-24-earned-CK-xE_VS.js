@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/quiz-stamp-24-earned-C-obO3-w.webp`;export{e as default};

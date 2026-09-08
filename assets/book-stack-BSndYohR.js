@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/book-stack-Cpnv7J4m.webp`;export{e as default};

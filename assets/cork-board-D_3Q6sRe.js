@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/cork-board-OGYgeTrb.webp`;export{e as default};

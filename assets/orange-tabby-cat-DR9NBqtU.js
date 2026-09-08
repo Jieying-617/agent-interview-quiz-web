@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/orange-tabby-cat-BCNUVQ-F.webp`;export{e as default};

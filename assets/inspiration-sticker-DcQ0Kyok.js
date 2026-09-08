@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/inspiration-sticker-ZTk7IKG-.webp`;export{e as default};

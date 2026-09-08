@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/rain-static-fog-DfXpEcl7.webp`;export{e as default};

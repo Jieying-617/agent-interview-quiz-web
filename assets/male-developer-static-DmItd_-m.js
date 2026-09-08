@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/male-developer-static-Dm6XVTNr.webp`;export{e as default};

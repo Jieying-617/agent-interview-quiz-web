@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/potted-plant-B8grbdVn.webp`;export{e as default};

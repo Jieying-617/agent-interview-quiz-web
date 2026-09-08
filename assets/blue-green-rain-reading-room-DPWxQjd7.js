@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/blue-green-rain-reading-room-CbNCLEie.webp`;export{e as default};

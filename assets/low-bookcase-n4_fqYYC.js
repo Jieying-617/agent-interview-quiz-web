@@ -1,0 +1,1 @@
+var e=`/agent-interview-quiz-web/assets/low-bookcase-CdZssVyt.webp`;export{e as default};
